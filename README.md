@@ -14,6 +14,7 @@ Free to download and use, give credit to Yukihiro Iwayama
 
 one of the Reconstruction results is here.
 https://sketchfab.com/3d-models/3cfa941f52ab4e6097521f3504639941
+Password : testst
 Direct from RealityCapture. No modification in other 3D software.
 
 You can use 3DF Zephyr, Metashape, meshroom and so on.
