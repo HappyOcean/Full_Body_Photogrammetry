@@ -10,7 +10,7 @@ Camera : Raspberry Pi Camera Module v2
 
 Free to download and use, give credit to Yukihiro Iwayama
 
-one of the Reconstruction results is here.
+One of the Reconstruction results is here.
 https://skfb.ly/6NUVq
 Directly uploaded from RealityCapture. No modification in other 3D software.
 
