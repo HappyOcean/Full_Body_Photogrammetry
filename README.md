@@ -1,5 +1,5 @@
 
-# 360 degree Full Body Photogrammetry data set of 3D Model Creation
+# Full Body Photogrammetry data set of 360-degree images for 3D Model Creation
 
 88 images - 8MP(3280 x 2464), 478MB in total
 Camera : Raspberry Pi Camera Module v2 
