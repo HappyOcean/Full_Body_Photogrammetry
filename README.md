@@ -1,5 +1,5 @@
 
-# Full Body Photogrammetry data set of 360-degree images for 3D Model Creation
+# Full Body Photogrammetry image data set for 3D Model Creation
 
 88 images - 8MP(3280 x 2464), 478MB in total.
 Camera : Raspberry Pi Camera Module v2 
@@ -7,6 +7,9 @@ Camera : Raspberry Pi Camera Module v2
 model : Yukihiro Iwayama,  Twitter: @HappyOcean
 
 Free to download and use, give credit to Yukihiro Iwayama
+
+you can also directly download .zip file from here
+https://www.real-avatar.com/Full_Body_Photogrammetry_Dataset_Yukihiro_Iwayama.zip
 
 one of the Reconstruction results is here.
 
