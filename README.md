@@ -22,7 +22,7 @@ model : Yukihiro Iwayama,  Twitter: @HappyOcean
 
 Import
 
-Alignment: Align -> Detect Markers -> Align
+Alignment: Align -> Detect Markers -> Align (You could skip Detect Markers)
 
 Set reconstruction region around the subject.
 
