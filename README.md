@@ -14,9 +14,9 @@ Free to download and use, give credit to Yukihiro Iwayama
 
 one of the Reconstruction results is here.
 https://skfb.ly/6NUVq
-Direct from RealityCapture. No modification in other 3D software.
+Directly uploaded from RealityCapture. No modification in other 3D software.
 
-You can use 3DF Zephyr, Metashape, meshroom and so on.
+Needless to say, you can use 3DF Zephyr, Metashape, meshroom and so on.
 
 # RealityCapture Worlflow / Setting (overview)
 
