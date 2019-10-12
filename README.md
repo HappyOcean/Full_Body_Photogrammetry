@@ -1,8 +1,8 @@
 
 # Full Body Photogrammetry image data set for 3D Model Creation
 
-88 images - 8MP(3280 x 2464), 478MB in total.
-Camera : Raspberry Pi Camera Module v2 
+88 images - 8MP(3280 x 2464), 478MB in total - inside images folder: 
+Camera : Raspberry Pi Camera Module v2
 
 model : Yukihiro Iwayama,  Twitter: @HappyOcean
 
