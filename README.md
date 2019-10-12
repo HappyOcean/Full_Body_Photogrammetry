@@ -4,12 +4,15 @@
 88 images - 8MP(3280 x 2464), 478MB in total.
 Camera : Raspberry Pi Camera Module v2 
 
-model : Yukihiro Iwayama  Twitter: @HappyOcean
-Free to use, give credit to : Yukihiro Iwayama
+model : Yukihiro Iwayama,  Twitter: @HappyOcean
+
+Free to download and use, give credit to Yukihiro Iwayama
 
 one of the Reconstruction results is here.
 
 Direct from RealityCapture. No modification in other 3D software.
+
+You can use 3DF Zephyr, Metashape, meshroom and so on.
 
 # RealityCapture Worlflow / Setting (overview of one example)
 Import
