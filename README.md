@@ -14,7 +14,7 @@ Direct from RealityCapture. No modification in other 3D software.
 
 You can use 3DF Zephyr, Metashape, meshroom and so on.
 
-# RealityCapture Worlflow / Setting (overview of one example)
+# RealityCapture Worlflow / Setting (overview)
 
 Import
 
@@ -28,12 +28,14 @@ Close Holes -> Clean Model
 
 Simplyfy -> Smooth
 
+-- you could skip below ---
 Unwrap
   Unwrap parameters
     Maximal texture resolution: 4096 x 44096
     Texel size: Custom
     Custom texel size: 0.005280
-    
+-- you could skip above ---    
+
 Texture
 
 
