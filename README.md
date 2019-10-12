@@ -8,8 +8,6 @@ https://www.real-avatar.com/Full_Body_Photogrammetry_Dataset_Yukihiro_Iwayama.zi
 
 Camera : Raspberry Pi Camera Module v2
 
-model : Yukihiro Iwayama,  Twitter: @HappyOcean
-
 Free to download and use, give credit to Yukihiro Iwayama
 
 one of the Reconstruction results is here.
@@ -17,6 +15,8 @@ https://skfb.ly/6NUVq
 Directly uploaded from RealityCapture. No modification in other 3D software.
 
 Needless to say, you can use 3DF Zephyr, Metashape, meshroom and so on.
+
+model : Yukihiro Iwayama,  Twitter: @HappyOcean
 
 # RealityCapture Worlflow / Setting (overview)
 
