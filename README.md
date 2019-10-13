@@ -14,7 +14,7 @@ One of the Reconstruction results is here.
 https://skfb.ly/6NUVq
 Directly uploaded from RealityCapture. No modification in other 3D software.
 
-Needless to say, you can use 3DF Zephyr, Metashape, meshroom and so on.
+Needless to say, you can use 3DF Zephyr, Metashape, Meshroom and so on.
 
 model : Yukihiro Iwayama,  Twitter: @HappyOcean
 
