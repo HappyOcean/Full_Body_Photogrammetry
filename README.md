@@ -55,7 +55,7 @@ Asakusa, Tokyo Japan
 https://www.real-avatar.com in Japanese
 
 # Paper
-Real Avatar Production - Raspberry Pi Zero W Based Low-Cost Full Body 3D Scan System Kit for VRM format
+"Real Avatar Production - Raspberry Pi Zero W Based Low-Cost Full Body 3D Scan System Kit for VRM format"
 https://www.3dbody.tech/cap/papers/2019/19101iwayama.pdf
 
 # Remark
