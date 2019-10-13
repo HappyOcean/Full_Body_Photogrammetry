@@ -12,14 +12,14 @@ One of the Reconstruction results is here.
 https://skfb.ly/6NUVq
 Directly uploaded from RealityCapture. No modification in other 3D software.
 
-**Needless to say, you can use 3DF Zephyr, Metashape, Meshroom and other photogrammetry software.**
+**Needless to say, you can use these images in 3DF Zephyr, Metashape, Meshroom and other photogrammetry software.**
 
 Free to download and use. Give credit to Yukihiro Iwayama .
 
 model : Yukihiro Iwayama,  Twitter: @[HappyOcean](https://Twitter.com/HappyOcean)
 
 
-# System Overview
+# Data Acquisition System Overview
 "Full Body 3D Scan System Kit with Raspberry Pi Zero W"
 https://www.slideshare.net/EIDEN_PRO/full-body-3d-scan-system-kit-with-raspberry-pi-zero-w
 
