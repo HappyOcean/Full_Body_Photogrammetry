@@ -16,7 +16,7 @@ Directly uploaded from RealityCapture. No modification in other 3D software.
 
 **Needless to say, you can use 3DF Zephyr, Metashape, Meshroom and other photogrammetry software.**
 
-model : Yukihiro Iwayama,  Twitter: @HappyOcean
+model : Yukihiro Iwayama,  Twitter: @[HappyOcean](https://Twitter.com/HappyOcean)
 
 
 # System Overview
