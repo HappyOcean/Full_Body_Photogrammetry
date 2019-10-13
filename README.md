@@ -36,8 +36,8 @@ Simplyfy -> Smooth
 
 Unwrap
   Unwrap parameters
-    Maximal texture resolution: 4096 x 44096
-    Texel size: Custom
+    Maximal texture resolution: 4096 x 4096,
+    Texel size: Custom,
     Custom texel size: 0.005280
     
 -- you could skip above ---    
