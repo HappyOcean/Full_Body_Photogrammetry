@@ -19,7 +19,7 @@ Free to download and use. Give credit to Yukihiro Iwayama .
 model : Yukihiro Iwayama,  Twitter: @[HappyOcean](https://Twitter.com/HappyOcean)
 
 
-# Image Data Acquisition System Overview
+## Image Data Acquisition System Overview
 "Full Body 3D Scan System Kit with Raspberry Pi Zero W"
 https://www.slideshare.net/EIDEN_PRO/full-body-3d-scan-system-kit-with-raspberry-pi-zero-w
 
@@ -51,13 +51,13 @@ Unwrap
 Texture
 
 
-# 3D Scan Studio Location 
+## 3D Scan Studio Location 
 Asakusa, Tokyo Japan
 https://www.real-avatar.com in Japanese
 
-# Paper
+## Paper
 "Real Avatar Production - Raspberry Pi Zero W Based Low-Cost Full Body 3D Scan System Kit for VRM format"
 https://www.3dbody.tech/cap/papers/2019/19101iwayama.pdf
 
-# Remark
+## Remark
 I hope this could contribute as some sort of reference data set especially for those who are not quite familiar but are interested in 3D body scan. There is too little of this kind of full image date set of A Pose Human. Personally, I haven’t seen it that’s why I release.
