@@ -1,7 +1,7 @@
 
 # Full Body Photogrammetry / 3D Scan Image Dataset for 3D Photo Real Avatar / Model Creation
 
-88 images - 8MP(3280 x 2464), 478MB in total - inside images folder.
+A set of 88 images - 8MP(3280 x 2464), 478MB in total - inside images folder.
 
 you can also directly download .zip file from here.
 https://www.real-avatar.com/Full_Body_Photogrammetry_Dataset_Yukihiro_Iwayama.zip
@@ -19,7 +19,7 @@ Free to download and use. Give credit to Yukihiro Iwayama .
 model : Yukihiro Iwayama,  Twitter: @[HappyOcean](https://Twitter.com/HappyOcean)
 
 
-# Data Acquisition System Overview
+# Image Data Acquisition System Overview
 "Full Body 3D Scan System Kit with Raspberry Pi Zero W"
 https://www.slideshare.net/EIDEN_PRO/full-body-3d-scan-system-kit-with-raspberry-pi-zero-w
 
