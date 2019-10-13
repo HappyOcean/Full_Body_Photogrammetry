@@ -18,6 +18,9 @@ Needless to say, you can use 3DF Zephyr, Metashape, Meshroom and so on.
 
 model : Yukihiro Iwayama,  Twitter: @HappyOcean
 
+# System Overview
+https://www.slideshare.net/EIDEN_PRO/full-body-3d-scan-system-kit-with-raspberry-pi-zero-w
+
 # RealityCapture Worlflow / Setting (overview)
 
 Import
@@ -44,8 +47,6 @@ Unwrap
 
 Texture
 
-# System Overview
-https://www.slideshare.net/EIDEN_PRO/full-body-3d-scan-system-kit-with-raspberry-pi-zero-w
 
 # Studio Location 
 Asakusa, Tokyo Japan
