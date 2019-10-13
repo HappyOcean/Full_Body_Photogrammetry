@@ -21,7 +21,7 @@ model : Yukihiro Iwayama,  Twitter: @HappyOcean
 # System Overview
 https://www.slideshare.net/EIDEN_PRO/full-body-3d-scan-system-kit-with-raspberry-pi-zero-w
 
-# RealityCapture Worlflow / Setting (overview)
+# RealityCapture Worlflow  (overview of one example)
 
 Import
 
