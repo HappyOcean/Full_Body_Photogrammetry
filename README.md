@@ -44,6 +44,8 @@ Unwrap
 
 Texture
 
+# System Overview
+https://www.slideshare.net/EIDEN_PRO/full-body-3d-scan-system-kit-with-raspberry-pi-zero-w
 
 # Studio Location 
 Asakusa, Tokyo Japan
