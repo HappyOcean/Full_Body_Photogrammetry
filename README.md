@@ -49,4 +49,4 @@ https://www.slideshare.net/EIDEN_PRO/full-body-3d-scan-system-kit-with-raspberry
 
 # Studio Location 
 Asakusa, Tokyo Japan
-https:/www.real-avatar.com in Japanese
+https://www.real-avatar.com in Japanese
