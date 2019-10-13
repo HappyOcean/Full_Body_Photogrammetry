@@ -1,5 +1,5 @@
 
-# Full Body Photogrammetry / 3D Scan Image Data Set for 3D Photo Real Avatar / Model Creation
+# Full Body Photogrammetry / 3D Scan Image Dataset for 3D Photo Real Avatar / Model Creation
 
 88 images - 8MP(3280 x 2464), 478MB in total - inside images folder.
 
