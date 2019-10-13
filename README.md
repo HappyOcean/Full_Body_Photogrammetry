@@ -1,5 +1,5 @@
 
-# Full Body Photogrammetry image data set for 3D Model Creation
+# Full Body Photogrammetry / 3D Scan image data set for 3D Model Creation
 
 88 images - 8MP(3280 x 2464), 478MB in total - inside images folder.
 
