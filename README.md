@@ -18,8 +18,10 @@ Directly uploaded from RealityCapture. No modification in other 3D software.
 
 model : Yukihiro Iwayama,  Twitter: @HappyOcean
 
+
 # System Overview
 https://www.slideshare.net/EIDEN_PRO/full-body-3d-scan-system-kit-with-raspberry-pi-zero-w
+
 
 # RealityCapture Worlflow  (overview of one example)
 
@@ -51,3 +53,6 @@ Texture
 # Studio Location 
 Asakusa, Tokyo Japan
 https://www.real-avatar.com in Japanese
+
+# Remark
+I hope this could contribute as some sort of reference data set especially for those who are not quite familiar but are interested in 3D body scan. There is too little of this kind of full image date set of A Pose Human. Personally, I haven’s seen it that’s why I release.
