@@ -20,6 +20,7 @@ model : Yukihiro Iwayama,  Twitter: @[HappyOcean](https://Twitter.com/HappyOcean
 
 
 # System Overview
+"Full Body 3D Scan System Kit with Raspberry Pi Zero W"
 https://www.slideshare.net/EIDEN_PRO/full-body-3d-scan-system-kit-with-raspberry-pi-zero-w
 
 
