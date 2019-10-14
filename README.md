@@ -36,7 +36,7 @@ https://www.real-avatar.com in Japanese
 https://www.3dbody.tech/cap/papers/2019/19101iwayama.pdf
 
 ## RealityCapture Worlflow  (overview of one example software)
-
+<img src="https://www.real-avatar.com/img/RealityCapture.png" alt="RealityCapture" title="RealityCapture">
 * Import
 
 -------
