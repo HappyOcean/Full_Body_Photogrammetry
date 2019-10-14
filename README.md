@@ -34,8 +34,13 @@ https://www.3dbody.tech/cap/papers/2019/19101iwayama.pdf
 
 Import
 
-Alignment: Align -> Detect Markers -> Align (You could skip Detect Markers)
-Marker setting : Circular, single ring, 20-bit
+Alignment: Align -> Detect Markers -> Align 
+
+---(You could skip Detect Markers)---
+
+Marker setting : Circular, single ring, 20-bit https://www.real-avatar.com/img/Marker_Setting.png
+
+--(You could skip Detect Markers) --
 
 Set reconstruction region around the subject.
 
