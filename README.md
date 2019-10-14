@@ -2,6 +2,7 @@
 # Full Body Photogrammetry / 3D Scan Image Dataset for 3D Photo Real Avatar / Model Creation
 
 A set of 88 images - 8MP(3280 x 2464), 478MB in total - inside images folder.
+<img src="https://www.real-avatar.com/img/dataset_sample.png" alt="Dataset Sample" title="Dataset Sample">
 
 you can also directly download .zip file from here.
 
