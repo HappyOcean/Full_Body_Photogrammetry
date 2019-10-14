@@ -36,11 +36,11 @@ Import
 
 Alignment: Align -> Detect Markers -> Align 
 
----(You could skip Detect Markers but it enables better alignment experimental)---
+---(You could skip Detect Markers but it enables better alignment experimental option)---
 
 Marker Type : Circular, single ring, 20-bit https://www.real-avatar.com/img/Marker_Setting.png
 
---(You could skip Detect Markers but it enables better alignment experimental) --
+--(You could skip Detect Markers but it enables better alignment, experimental option) --
 
 Set reconstruction region around the subject.
 
