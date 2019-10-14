@@ -36,11 +36,12 @@ Import
 
 Alignment: Align -> Detect Markers -> Align 2 times.
 Alignment Setting : https://www.real-avatar.com/img/Alignment_Setting.png
----(You could skip Detect Markers but it enables better alignment experimental option)---
+
+---(You could skip Detect Markers but it enables better alignment as experimental option)---
 
 Marker Type : Circular, single ring, 20-bit https://www.real-avatar.com/img/Marker_Setting.png
 
---(You could skip Detect Markers but it enables better alignment, experimental option) --
+--(You could skip Detect Markers but it enables better alignment as experimental option) --
 
 Set reconstruction region around the subject.
 
@@ -56,8 +57,10 @@ Unwrap
   Unwrap parameters
     Maximal texture resolution: 4096 x 4096,
     Texel size: Custom,
-    Custom texel size: 0.005280
+    Custom texel size: around 0.005280 depends on how you set reconstruction region
+    
 https://www.real-avatar.com/img/unwrap_parameters_for_texture.png
+You should aim for near 100% texture quality while maintaining texture count 1
 
 -- you could skip above it produces better texture ---    
 
