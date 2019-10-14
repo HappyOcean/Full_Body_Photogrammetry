@@ -4,6 +4,7 @@
 A set of 88 images - 8MP(3280 x 2464), 478MB in total - inside images folder.
 
 you can also directly download .zip file from here.
+
 https://www.real-avatar.com/Full_Body_Photogrammetry_Dataset_Yukihiro_Iwayama.zip
 
 Camera : Raspberry Pi Camera Module v2
@@ -20,6 +21,7 @@ model : Yukihiro Iwayama,  Twitter: @[HappyOcean](https://Twitter.com/HappyOcean
 
 ## Image Data Acquisition System Overview
 "Full Body 3D Scan System Kit with Raspberry Pi Zero W"
+
 https://www.slideshare.net/EIDEN_PRO/full-body-3d-scan-system-kit-with-raspberry-pi-zero-w
 
 ## 3D Scan Studio Location 
@@ -28,6 +30,7 @@ https://www.real-avatar.com in Japanese
 
 ## Paper
 "Real Avatar Production - Raspberry Pi Zero W Based Low-Cost Full Body 3D Scan System Kit for VRM format"
+
 https://www.3dbody.tech/cap/papers/2019/19101iwayama.pdf
 
 ## RealityCapture Worlflow  (overview of one example software)
@@ -56,10 +59,9 @@ https://www.3dbody.tech/cap/papers/2019/19101iwayama.pdf
 ---------
 * Close Holes -> Clean Model
 
-* Simplify to 350,000 https://www.real-avatar.com/img/Simplify.png
-  -> Smooth
+* Simplify to 350,000 -> Smooth https://www.real-avatar.com/img/simplify_smooth.png
 
-(you could skip below but it produces better texture)
+  (you could skip below but it produces better texture)
 
 * Unwrap
   Unwrap parameters
@@ -68,6 +70,7 @@ https://www.3dbody.tech/cap/papers/2019/19101iwayama.pdf
     Custom texel size: around 0.005280 depends on how you set reconstruction region
     
 https://www.real-avatar.com/img/unwrap_parameters_for_texture.png
+
 You should aim for near 100% texture quality while maintaining texture count 1
 
 -- --- ---    
