@@ -66,10 +66,10 @@ https://www.3dbody.tech/cap/papers/2019/19101iwayama.pdf
   (you could skip unwrap but it produces better texture)
 
 * Unwrap
-Unwrap parameters:
-  Maximal texture resolution: 4096 x 4096, Texel size: Custom, Custom texel size: around 0.005280 depends on how you set reconstruction region
-  https://www.real-avatar.com/img/unwrap_parameters_for_texture.png
-  You should aim for near 100% texture quality while maintaining count of textures 1
+  Unwrap parameters:
+    Maximal texture resolution: 4096 x 4096, Texel size: Custom, Custom texel size: around 0.005280 depends on how you set reconstruction region
+    https://www.real-avatar.com/img/unwrap_parameters_for_texture.png
+    You should aim for near 100% texture quality while maintaining count of textures 1
 
 -- --- ---    
 
