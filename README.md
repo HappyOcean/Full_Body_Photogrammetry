@@ -13,6 +13,7 @@ Camera : Raspberry Pi Camera Module v2
 One of Reconstruction results is here.
 https://skfb.ly/6NUVq
 Directly uploaded from RealityCapture. No modification in other 3D software.
+<img src="https://www.real-avatar.com/img/YukihiroIwayama_Sample_Model.png" alt="Sample Model Yukihiro Iwayama" title="Sample Model Yukihiro Iwayama">
 
 **Needless to say, you can use these images in 3DF Zephyr, Metashape, Meshroom and other photogrammetry software.**
 
