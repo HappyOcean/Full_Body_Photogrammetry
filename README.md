@@ -36,9 +36,12 @@ https://www.3dbody.tech/cap/papers/2019/19101iwayama.pdf
 
 -------
 * Alignment:
-Align -> Detect Markers -> Align 2 times.
+Align
+Detect Markers
+Align 2 times.
 
 Alignment Setting : https://www.real-avatar.com/img/Alignment_Setting.png
+
 You could skip Detect Markers but it enables better alignment as experimental option
 Marker Type : Circular, single ring, 20-bit https://www.real-avatar.com/img/Marker_Setting.png
 After 2 times alignment, it looks like this.
