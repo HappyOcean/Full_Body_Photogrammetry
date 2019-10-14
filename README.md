@@ -32,10 +32,10 @@ https://www.3dbody.tech/cap/papers/2019/19101iwayama.pdf
 
 ## RealityCapture Worlflow  (overview of one example software)
 
-Import
+*Import
 
 -------
-Alignment: Align -> Detect Markers -> Align 2 times.
+*Alignment: Align -> Detect Markers -> Align 2 times.
 
 Alignment Setting : https://www.real-avatar.com/img/Alignment_Setting.png
 
@@ -46,18 +46,18 @@ After 2 times alignment, it looks like this.
 https://www.real-avatar.com/img/reprojection_error.png
 --------
 
-Set reconstruction region around the subject.
+*Set reconstruction region around the subject.
 
-Reconstruction : Normal
+*Reconstruction : Normal
 
 ---------
-Close Holes -> Clean Model
+*Close Holes -> Clean Model
 
-Simplify -> Smooth
+*Simplify -> Smooth
 
--- you could skip below but it produces better texture ---
+(you could skip below but it produces better texture)
 
-Unwrap
+*Unwrap
   Unwrap parameters
     Maximal texture resolution: 4096 x 4096,
     Texel size: Custom,
@@ -68,7 +68,7 @@ You should aim for near 100% texture quality while maintaining texture count 1
 
 -- --- ---    
 
-Texture
+*Texture
 
 
 ## Remark
