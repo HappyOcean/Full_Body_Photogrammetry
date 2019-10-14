@@ -35,6 +35,7 @@ https://www.3dbody.tech/cap/papers/2019/19101iwayama.pdf
 Import
 
 Alignment: Align -> Detect Markers -> Align (You could skip Detect Markers)
+Marker setting : Circular, single ring, 20-bit
 
 Set reconstruction region around the subject.
 
