@@ -34,6 +34,7 @@ https://www.3dbody.tech/cap/papers/2019/19101iwayama.pdf
 
 Import
 
+-------
 Alignment: Align -> Detect Markers -> Align 2 times.
 
 Alignment Setting : https://www.real-avatar.com/img/Alignment_Setting.png
@@ -48,6 +49,7 @@ Set reconstruction region around the subject.
 
 Reconstruction : Normal
 
+---------
 Close Holes -> Clean Model
 
 Simplyfy -> Smooth
