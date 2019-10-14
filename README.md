@@ -79,5 +79,6 @@ https://www.3dbody.tech/cap/papers/2019/19101iwayama.pdf
 * Texture
 
 
+
 ## Remark
 I hope this could contribute as some sort of reference data set especially for those who are not quite familiar but are interested in 3D body scan. There is too little of this kind of full image date set of A Pose Human which is openly available. Personally, I haven’t seen it that’s why I release.
