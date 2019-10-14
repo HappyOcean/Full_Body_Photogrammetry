@@ -50,15 +50,16 @@ Close Holes -> Clean Model
 
 Simplyfy -> Smooth
 
--- you could skip below ---
+-- you could skip below but it produces better texture ---
 
 Unwrap
   Unwrap parameters
     Maximal texture resolution: 4096 x 4096,
     Texel size: Custom,
     Custom texel size: 0.005280
-    
--- you could skip above ---    
+https://www.real-avatar.com/img/unwrap_parameters_for_texture.png
+
+-- you could skip above it produces better texture ---    
 
 Texture
 
