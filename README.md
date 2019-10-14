@@ -69,7 +69,7 @@ https://www.3dbody.tech/cap/papers/2019/19101iwayama.pdf
     
     https://www.real-avatar.com/img/unwrap_parameters_for_texture.png
     
-    You should aim for near 100% texture quality while maintaining texture count 1
+    You should aim for near 100% texture quality while maintaining count of textures 1
 
 -- --- ---    
 
