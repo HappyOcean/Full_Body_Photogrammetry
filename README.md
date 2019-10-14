@@ -44,8 +44,8 @@ Alignment Setting : https://www.real-avatar.com/img/Alignment_Setting.png
   You could skip Detect Markers but it enables better alignment as experimental option
 
 Marker Type : Circular, single ring, 20-bit https://www.real-avatar.com/img/Marker_Setting.png
-  After 2 times alignment, it looks like this.
-  https://www.real-avatar.com/img/reprojection_error.png
+
+  After 2 times alignment, it looks like https://www.real-avatar.com/img/reprojection_error.png
 --------
 
 * Set reconstruction region around the subject.
