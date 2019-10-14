@@ -34,7 +34,7 @@ https://www.3dbody.tech/cap/papers/2019/19101iwayama.pdf
 
 Import
 
-Alignment: Align -> Detect Markers -> Align 
+Alignment: Align -> Detect Markers -> Align 2 times.
 
 ---(You could skip Detect Markers but it enables better alignment experimental option)---
 
