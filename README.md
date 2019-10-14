@@ -43,7 +43,7 @@ https://www.3dbody.tech/cap/papers/2019/19101iwayama.pdf
 * Alignment:
   Align >
   Detect Markers >
-  Align 2 times.
+  Align 2 times (push align button and wait for finishing and then push align button again. this reduces reprojection errors)
 
   Alignment Setting : https://www.real-avatar.com/img/Alignment_Setting.png
   
