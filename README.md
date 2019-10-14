@@ -10,7 +10,7 @@ https://www.real-avatar.com/Full_Body_Photogrammetry_Dataset_Yukihiro_Iwayama.zi
 
 Camera : Raspberry Pi Camera Module v2
 
-One of Reconstruction results is here.
+One of the reconstructed and textrured resulting 3D model is here.
 https://skfb.ly/6NUVq
 Directly uploaded from RealityCapture. No modification in other 3D software.
 <img src="https://www.real-avatar.com/img/YukihiroIwayama_Sample_Model.png" alt="Sample Model Yukihiro Iwayama" title="Sample Model Yukihiro Iwayama">
