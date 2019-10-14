@@ -63,7 +63,7 @@ https://www.3dbody.tech/cap/papers/2019/19101iwayama.pdf
 
 * Simplify to 350,000 -> Smooth https://www.real-avatar.com/img/simplify_smooth.png
 
-  (you could skip unwrap but it produces better texture)
+  (you could skip unwrap but it produces better texture with custom settings)
 
 * Unwrap
   Unwrap parameters:
