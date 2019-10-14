@@ -35,13 +35,14 @@ https://www.3dbody.tech/cap/papers/2019/19101iwayama.pdf
 Import
 
 Alignment: Align -> Detect Markers -> Align 2 times.
+
 Alignment Setting : https://www.real-avatar.com/img/Alignment_Setting.png
 
 ---(You could skip Detect Markers but it enables better alignment as experimental option)---
 
 Marker Type : Circular, single ring, 20-bit https://www.real-avatar.com/img/Marker_Setting.png
 
---(You could skip Detect Markers but it enables better alignment as experimental option) --
+--------
 
 Set reconstruction region around the subject.
 
@@ -62,7 +63,7 @@ Unwrap
 https://www.real-avatar.com/img/unwrap_parameters_for_texture.png
 You should aim for near 100% texture quality while maintaining texture count 1
 
--- you could skip above it produces better texture ---    
+-- --- ---    
 
 Texture
 
