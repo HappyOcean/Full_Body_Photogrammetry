@@ -56,8 +56,8 @@ https://www.3dbody.tech/cap/papers/2019/19101iwayama.pdf
 ---------
 * Close Holes -> Clean Model
 
-* Simplify 350,000 https://www.real-avatar.com/img/Simplify.png
--> Smooth
+* Simplify to 350,000 https://www.real-avatar.com/img/Simplify.png
+  -> Smooth
 
 (you could skip below but it produces better texture)
 
