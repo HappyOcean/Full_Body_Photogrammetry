@@ -80,6 +80,7 @@ https://www.3dbody.tech/cap/papers/2019/19101iwayama.pdf
 
 ## Retoplogy by Wrap3
 https://skfb.ly/6NWU8
+<img src="https://www.real-avatar.com/img/Retopology_Wrap3_Yukihiro_Iwayama.png" alt="Retopology by Wrap3 Yukihiro Iwayama" title="Retopology by Wrap3 Yukihiro Iwayama">
 
 
 ## Remark
