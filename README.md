@@ -47,7 +47,7 @@ https://www.3dbody.tech/cap/papers/2019/19101iwayama.pdf
 
   Alignment Setting : https://www.real-avatar.com/img/Alignment_Setting.png
   
-  You could skip Detect Markers but it clearly enables better alignment as experimental option
+  You could skip Detect Markers but it clearly achieves better alignment as experimental option
 
   Marker Type : Circular, single ring, 20-bit https://www.real-avatar.com/img/Marker_Setting.png
   
