@@ -17,7 +17,7 @@ Directly uploaded from RealityCapture. No modification in other 3D software.
 
 **Needless to say, you can use these images in 3DF Zephyr, Metashape, Meshroom and other photogrammetry software.**
 
-Free to download and use. Give credit to Yukihiro Iwayama .
+Free to download, use, reconstruct and/or make it public. Give credit to Yukihiro Iwayama .
 
 model : Yukihiro Iwayama,  Twitter: @[HappyOcean](https://Twitter.com/HappyOcean)
 
