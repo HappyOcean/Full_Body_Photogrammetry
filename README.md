@@ -39,7 +39,7 @@ https://www.real-avatar.com in Japanese
 
 https://www.3dbody.tech/cap/papers/2019/19101iwayama.pdf
 
-3DBODY.TECH 2019 - The 10th International Conference and Exhibition on 3D Body Scanning and Processing Technologies, 22-23 October 2019, in Lugano, Switzerland.
+3DBODY.TECH 2019 https://www.3dbody.tech/ - The 10th International Conference and Exhibition on 3D Body Scanning and Processing Technologies, 22-23 October 2019, in Lugano, Switzerland.
 
 ## RealityCapture Worlflow  (overview of one example software)
 <img src="https://www.real-avatar.com/img/RealityCapture.png" alt="RealityCapture" title="RealityCapture">
