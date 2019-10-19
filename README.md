@@ -26,7 +26,10 @@ model : Yukihiro Iwayama,  Twitter: @[HappyOcean](https://Twitter.com/HappyOcean
 
 https://www.slideshare.net/EIDEN_PRO/full-body-3d-scan-system-kit-with-raspberry-pi-zero-w
 
+https://skfb.ly/6OnYD
+
 ## 3D Scan Studio Location 
+
 Asakusa, Tokyo Japan
 https://www.real-avatar.com in Japanese
 
