@@ -27,7 +27,7 @@ model : Yukihiro Iwayama,  Twitter: @[HappyOcean](https://Twitter.com/HappyOcean
 https://www.slideshare.net/EIDEN_PRO/full-body-3d-scan-system-kit-with-raspberry-pi-zero-w
 
 
-## 3D Scan Studio Location 
+## 3D Scan Studio where the dataset captured
 The studio's 3D Model is https://skfb.ly/6OnYD
 <img src="https://www.real-avatar.com/img/Asakusa_Studio.png" alt="Asakusa Studio" title="Asakusa Studio">
 
