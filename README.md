@@ -29,7 +29,7 @@ https://www.slideshare.net/EIDEN_PRO/full-body-3d-scan-system-kit-with-raspberry
 
 ## 3D Scan Studio Where Dataset captured
 The studio's 3D Model is https://skfb.ly/6OnYD　It was also created by the same image dataset.
-<img src="https://www.real-avatar.com/img/Asakusa_Studio.png" alt="Asakusa Studio" title="Asakusa Studio">
+<img src="https://www.real-avatar.com/img/Asakusa_Studio.jpg" alt="Asakusa Studio" title="Asakusa Studio">
 
 Asakusa, Tokyo Japan
 https://www.real-avatar.com in Japanese
