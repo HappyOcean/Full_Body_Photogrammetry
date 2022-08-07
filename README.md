@@ -19,7 +19,7 @@ Directly uploaded from RealityCapture. No modification in other 3D software.
 
 Free to download, use, reconstruct and make it public. Display the link URL to this repository and give credit to Yukihiro Iwayama .
 
-model : Yukihiro Iwayama,  Twitter: @[RealAvatarETH](https://Twitter.com/RealAvatarETH)
+model : Yukihiro Iwayama,  Twitter: @[RealAvatarOne](https://Twitter.com/RealAvatarOne)
 
 ## Image Data Acquisition System Overview
 "Full Body 3D Scan System Kit with Raspberry Pi Zero W"
